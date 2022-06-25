@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">my__notes</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="nice_to_see_you_here">Nice To See You Here</string>
+    <string name="new_user">New User</string>
+    <string name="this_is_your_code_which_appear_here">This is your code which appear here</string>
+    <string name="this_is_your_developer">This is your Developer</string>
+</resources>
